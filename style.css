@@ -1,0 +1,39 @@
+body{
+    background-color:#fff;
+}
+header{
+    border: 2px solid black;
+    border-radius: 12px;
+    text-align: center;
+    background-color: pink;
+    color: white;
+
+}
+table{
+    border: 2px solid black;
+    padding: 2px;
+    margin: 0PX;
+    
+}
+th{
+    border: 2px solid blue;
+    padding:2px;
+    margin: 0px;
+    text-align: center;
+}
+td{
+    
+    border: 2px solid pink;
+    padding:2px;
+    margin: 0px;
+    text-align: center;
+
+
+}
+mark{
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    padding: 2px;
+    margin: 0px;
+}
